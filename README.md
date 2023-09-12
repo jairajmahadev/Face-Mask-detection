@@ -8,3 +8,8 @@ How to run:
 3. Run `train_mask_detector.py` to train model.
 4. Model and training loss and accuracy graph will be saved in current directory.
 5. Run `detect_mask_video.py`
+
+##Demo
+
+Demo using a video from youtube
+![](https://github.com/jairajmahadev/Face-Mask-detection/blob/main/demo.gif)
