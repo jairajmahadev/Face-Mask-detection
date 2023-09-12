@@ -1,6 +1,7 @@
 ## Face-Mask-detection
 Live camera feed showing if a person is wearing a face-mask or not.
-Uses MobileNetV2 for image classification. Dataset consists of around 3800 images of both categories.   
+Uses MobileNetV2 for image classification. Dataset consists of around 3800 images of both categories. 
+Link to [dataset](https://drive.google.com/uc?export=download&id=1E71FsXwt4oohhj6LK_a6oLdJ6FPrpGjb)
 How to run:
 1. Install all dependencies using requirements.txt file by running `pip install -r requirements.txt`
 2. Add path to dataset in `train_mask_detector.py`
